@@ -1,0 +1,62 @@
+ [
+    {
+        "department": "Computer Engineering",
+        "cgpa": 4.3,
+        "interests": "machine learning, ai, data, coding",
+        "suggested_career": "Data Scientist"
+    },
+    {
+        "department": "Mechanical Engineering",
+        "cgpa": 3.2,
+        "interests": "design, 3D modelling, thermodynamics",
+        "suggested_career": "CAD Designer"
+    },
+    {
+        "department": "Electrical Engineering",
+        "cgpa": 4.0,
+        "interests": "circuits, power systems, renewable energy",
+        "suggested_career": "Power Systems Engineer"
+    },
+    {
+        "department": "Systems Engineering",
+        "cgpa": 3.6,
+        "interests": "python, automation, optimization, ai",
+        "suggested_career": "AI Engineer"
+    },
+    {
+        "department": "Computer Science",
+        "cgpa": 3.9,
+        "interests": "web development, ui, frontend, design",
+        "suggested_career": "Frontend Developer"
+    },
+    {
+        "department": "Civil Engineering",
+        "cgpa": 3.4,
+        "interests": "buildings, design, architecture, drawing",
+        "suggested_career": "Structural Engineer"
+    },
+    {
+        "department": "Computer Engineering",
+        "cgpa": 2.8,
+        "interests": "hardware, low level, embedded systems",
+        "suggested_career": "Embedded Systems Engineer"
+    },
+    {
+        "department": "Electrical Engineering",
+        "cgpa": 3.1,
+        "interests": "networking, routers, cisco, protocols",
+        "suggested_career": "Network Engineer"
+    },
+    {
+        "department": "Systems Engineering",
+        "cgpa": 4.5,
+        "interests": "data analytics, big data, statistics",
+        "suggested_career": "Data Analyst"
+    },
+    {
+        "department": "Mechanical Engineering",
+        "cgpa": 2.7,
+        "interests": "vehicles, engines, manufacturing",
+        "suggested_career": "Automobile Engineer"
+    }
+]
